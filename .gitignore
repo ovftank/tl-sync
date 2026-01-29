@@ -1,0 +1,8 @@
+.DS_Store
+*.local
+*.log*
+.venv
+*.session
+*.session-journal
+__pycache__
+data.json
